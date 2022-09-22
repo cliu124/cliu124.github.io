@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mechanical Engineering, Johns Hopkins University, 2021
+* M.S. in Applied Mathematics and Statistics, Johns Hopkins University, 2021
+* M.S. in Mechanical Engineering, Johns Hopkins University, 2020
+* B.S. in Naval Architecture and Ocean Engineering, Shanghai Jiao Tong University, 2017
+* B.S. in Computer Technology and its Application, Shanghai Jiao Tong University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 8-2021-now
+  * University of California, Berkeley
+  * Postdoctoral scholar in Department of Physics
+  * Supervisor: Edgar Knobloch
   
 Skills
 ======
@@ -56,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of Journal of Fluid Mechanics, Computer and Fluids, Marine Structures, Ocean Engineering, Journal of Offshore Mechanics and Arctic Engineering, IEEE Control Systems Letters, Physica Scripta, Chaos, Solitons and Fractals
