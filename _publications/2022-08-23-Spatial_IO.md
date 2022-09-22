@@ -1,5 +1,5 @@
 ---
-title: "Spatial inputâ€“output analysis of actuated turbulent boundary"
+title: "Spatial input-output analysis of actuated turbulent boundary laye"
 collection: publications
 permalink: /publication/2022-08-23-Spatial_IO
 excerpt: 'To be added soon'
