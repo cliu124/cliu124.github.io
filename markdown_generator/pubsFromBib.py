@@ -124,10 +124,7 @@ for pubsource in publist:
             citation = citation + " <i>" + html_escape(venue) +"</i>."
             if "volume" in b.keys():
                 citation = citation + " "+ b["volume"]+", "+b["pages"]+"."
-            else:
-                citation = citation + "."
 
-            
             ## YAML variables
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
