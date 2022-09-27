@@ -112,7 +112,10 @@ for pubsource in publist:
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
             citation = citation + " <i>" + html_escape(venue) +"</i>."
-            citation = citation + " "+ b["volume"]+", "+b["pages"]+"."
+            if "volume" in b.keys():
+                citation = citation + " "+ b["volume"]+", "+b["pages"]+"."
+            else:
+                citation = citation + "."
 
             
             ## YAML variables
