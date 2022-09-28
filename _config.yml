@@ -83,7 +83,7 @@ author:
   name             : "Chang Liu"
   avatar           : "photo Chang Liu.jpg"
   bio              : "A theoretist working in the interaction among fluid dynamics, nonlinear dynamical system, control theory and optimization"
-  location         : "Location"
+  location         : # "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bZ77b64AAAAJ&hl=en"
