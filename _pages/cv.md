@@ -45,3 +45,10 @@ Teaching
 Service and leadership
 ======
 * Reviewer of Journal of Fluid Mechanics, Computer and Fluids, Marine Structures, Ocean Engineering, Journal of Offshore Mechanics and Arctic Engineering, IEEE Control Systems Letters, Physica Scripta, Chaos, Solitons and Fractals
+
+Awards
+======
+* Corrsin-Kovasznay Outstanding Paper Award, 2021
+* Creel Family Teaching Assistant Award, 2019
+* Outstanding Contribution Award of Chun-Tsung Foundation, 2018
+* Top 1% Bachelor Thesis in Shanghai Jiao Tong University, 2017
