@@ -18,5 +18,5 @@ My interested topic in fluid dynamics include double-diffusive convection, wall-
 
 The keywords of my research can be summarized as figure below
 
-1<br/><img src='/images/research_summary.png'>
+<img src='/images/research_summary.png'>
 
