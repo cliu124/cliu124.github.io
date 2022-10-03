@@ -1,0 +1,11 @@
+---
+title: "Staircase solutions and stability in vertically confined salt-finger convection, Chang Liu, Keith Julien, Edgar Knobloch"
+collection: talks
+type: "Contributed talk"
+permalink: /talks/11/20/2022-APS2022staircase
+venue: "Bulletin of the American Physical Society"
+date: 11/20/2022
+location: "Indianapolis, Indiana"
+---
+
+[More information here](https://meetings.aps.org/Meeting/DFD22/Session/U19.9)
