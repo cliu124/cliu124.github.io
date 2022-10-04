@@ -16,7 +16,7 @@ My Ph.D. research is done with [Dennice F. Gayme](https://engineering.jhu.edu/ga
 
 My undergraduate research is done with [Shixiao Fu](https://scholar.google.com/citations?user=ROYLltsAAAAJ&hl=en) in Shanghai Jiao Tong University. The collaborators include [Mengmeng Zhang](https://scholar.google.com/citations?user=W8B0eloAAAAJ&hl=en), [Haojie Ren](https://scholar.google.com/citations?user=Su2DFawAAAAJ&hl=en), [Yuwang Xu](https://scholar.google.com/citations?user=VSzjUgcAAAAJ&hl=en)
 
-My research work lies in an interaction between fluid dynamics, nonlinear dynamical system, optimization and control theory.
+My research work lies in an intersection between fluid dynamics, nonlinear dynamical system, optimization and control theory.
 
 My main research interest is understanding fluid dynamics using a wide range of tools including nonlinear dynamical system, control theory, optimization, adaptive filtering, asymptotic analysis, semi-analytical solution and direct numerical simulations. 
 
