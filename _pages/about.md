@@ -26,3 +26,5 @@ The keywords of my research can be summarized as figure below
 
 <img src='/images/research_summary.png'>
 
+Contact email: chang_liu@berkeley.edu; cliu124@alumni.jh.edu
+
