@@ -16,11 +16,11 @@ My Ph.D. research is done with [Dennice F. Gayme](https://engineering.jhu.edu/ga
 
 My undergraduate research is done with [Shixiao Fu](https://scholar.google.com/citations?user=ROYLltsAAAAJ&hl=en) in Shanghai Jiao Tong University. The collaborators include [Mengmeng Zhang](https://scholar.google.com/citations?user=W8B0eloAAAAJ&hl=en), [Haojie Ren](https://scholar.google.com/citations?user=Su2DFawAAAAJ&hl=en), [Yuwang Xu](https://scholar.google.com/citations?user=VSzjUgcAAAAJ&hl=en)
 
-My research work lies in an intersection between fluid dynamics, nonlinear dynamical system, optimization and control theory.
+My research work lies in an intersection between fluid dynamics, nonlinear dynamical system, control theory and optimization.
 
-My main research interest is understanding fluid dynamics using a wide range of tools including nonlinear dynamical system, control theory, optimization, adaptive filtering, asymptotic analysis, semi-analytical solution and direct numerical simulations. 
+My main research tools employed to understand fluid dynamics include bifurcation analysis, robust control theory, semi-definite optimization, adaptive filtering, asymptotic analysis and direct numerical simulations.
 
-My interested topic in fluid dynamics include double-diffusive convection, wall-bounded shear flows, stratified shear flows, shallow water waves and vortex-induced vibrations.
+My current interested topic in fluid dynamics include double-diffusive convection, wall-bounded shear flows, stratified shear flows, shallow water waves and vortex-induced vibrations.
 
 The keywords of my research can be summarized as figure below
 
