@@ -135,7 +135,10 @@ for pubsource in publist:
             note = False
             if "note" in b.keys():
                 if len(str(b["note"])) > 5:
-                    md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
+                    #md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
+                    #Update 2022/11/24, get rid of the '' in the note so it can be used to insert the images. 
+                    #Update by Chang Liu 
+                    md += "\nexcerpt: " + html_escape(b["note"])
                     note = True
 
             md += "\ndate: " + str(pub_date) 
