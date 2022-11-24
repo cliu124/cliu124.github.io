@@ -158,7 +158,9 @@ for pubsource in publist:
             
             ## Markdown description for individual page
             if note:
-                md += "\n" + html_escape(b["note"]) + "\n"
+                #remove the html_escape, by Chang Liu 2022/11/24
+                md += "\n" + b["note"] + "\n"
+                #md += "\n" + html_escape(b["note"]) + "\n"
 
             if url:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
