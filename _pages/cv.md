@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Engineering, Johns Hopkins University, 2021
-* M.S. in Applied Mathematics and Statistics, Johns Hopkins University, 2021
-* M.S. in Mechanical Engineering, Johns Hopkins University, 2020
-* B.S. in Naval Architecture and Ocean Engineering, Shanghai Jiao Tong University, 2017
-* B.S. in Computer Technology and its Application, Shanghai Jiao Tong University, 2017
+* M.S.E. in Applied Mathematics and Statistics, Johns Hopkins University, 2021
+* M.S.E. in Mechanical Engineering, Johns Hopkins University, 2020
+* B.E. in Naval Architecture and Ocean Engineering, Shanghai Jiao Tong University, 2017
+* B.E. in Computer Technology and its Application, Shanghai Jiao Tong University, 2017
 
 Work experience
 ======
