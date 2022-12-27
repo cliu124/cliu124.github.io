@@ -18,13 +18,17 @@ My undergraduate research is done with [Shixiao Fu](https://scholar.google.com/c
 
 My research work lies in an intersection between fluid dynamics, nonlinear dynamical system, control theory and optimization.
 
+The keywords of my research can be summarized as figure below
+
+<img src='/images/research_summary.png'>
+
 My main research tools employed to understand fluid dynamics include bifurcation analysis, robust control theory, semi-definite optimization, adaptive filtering, asymptotic analysis and direct numerical simulations.
 
 My current interested topic in fluid dynamics include double-diffusive convection, wall-bounded shear flows, stratified shear flows, shallow water waves and vortex-induced vibrations.
 
-The keywords of my research can be summarized as figure below
+These can be summarized by figure below
 
-<img src='/images/research_summary.png'>
+<img src='/images/research_summary_framework.png'>
 
 Contact email: chang_liu@berkeley.edu; cliu124@alumni.jh.edu
 
