@@ -32,4 +32,4 @@ These can be summarized by figure below
 
 Contact email: chang_liu@berkeley.edu; cliu124@alumni.jh.edu
 
-<a href="https://info.flagcounter.com/tOB9"><img src="https://s01.flagcounter.com/map/tOB9/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/dS2m"><img src="https://s01.flagcounter.com/map/dS2m/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
