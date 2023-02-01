@@ -54,10 +54,10 @@ publist = {
 }
 
 html_escape_table = {
-    "&": "&amp;",
     '"': "&quot;",
     "'": "&apos;"
     }
+#"&": "&amp;",
 
 def html_escape(text):
     """Produce entities within text."""
