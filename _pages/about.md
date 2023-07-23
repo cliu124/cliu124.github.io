@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Chang Liu's website. 
+I am joining University of Connecticut, Department of Mechanical Engineering as an Assistant Professor in August 2023! I have two open Ph.D. positions starting Spring/Fall 2024 and if you are interested in working with me, please contact me at chang_liu@uconn.edu 
 
 I am currently working as a postdoc with [Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch) at University of California, Berkeley, Department of Physics. The collaborators of my postdoc work include [Keith Julien](https://www.colorado.edu/amath/keith-julien-0) and [Manjul Sharma](https://scholar.google.com/citations?hl=en&user=O0spKioAAAAJ).
 
@@ -30,6 +30,6 @@ These can be summarized by figure below
 
 <img src='/images/research_summary_framework.png'>
 
-Contact email: chang_liu@berkeley.edu; cliu124@alumni.jh.edu
+Contact email: chang_liu@uconn.edu; chang_liu@berkeley.edu; cliu124@alumni.jh.edu
 
 <a href="https://info.flagcounter.com/91MI"><img src="https://s01.flagcounter.com/map/91MI/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
