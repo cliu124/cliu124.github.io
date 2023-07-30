@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "People"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,23 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+PI
+======
+<img src='/images/professional_Chang_Liu.png'>
+
+Graduate Students
+======
+I have two opening of Ph.D. students and interested students are welcome to apply
+
+Postdocs
+======
+
+Undergraduates
+======
+
+Alumni
+======
 
 Education
 ======
