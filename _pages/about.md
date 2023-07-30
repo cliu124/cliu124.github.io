@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-FLuids, Uncertainty, Estimation, Nonlinearity and Turbulence (FLUENT) Lab is led by Prof. Chang Liu at Department of Mechanical Engineering, University of Connecticut. We work on the intersection of the intersection among fluid dynamics, nonlinear dynamical system, control theory, state estimation and optimization with a special focus on hydrodynamic turbulence. 
+We have two Ph.D. positions opening! Please contact chang_liu@uconn.edu if you are interested in working with us. 
 
-I am joining University of Connecticut, Department of Mechanical Engineering as an Assistant Professor in August 2023! I have two open Ph.D. positions starting Spring/Fall 2024 and if you are interested in working with me, please contact me at chang_liu@uconn.edu 
+FLuids, Uncertainty, Estimation, Nonlinearity and Turbulence (FLUENT) Lab is led by Prof. Chang Liu at Department of Mechanical Engineering, University of Connecticut. We work on the intersection of the intersection among fluid dynamics, nonlinear dynamical system, control theory, state estimation and optimization with a special focus on hydrodynamic turbulence. 
 
 I am currently working as a postdoc with [Edgar Knobloch](https://physics.berkeley.edu/people/faculty/edgar-knobloch) at University of California, Berkeley, Department of Physics. The collaborators of my postdoc work include [Keith Julien](https://www.colorado.edu/amath/keith-julien-0) and [Manjul Sharma](https://scholar.google.com/citations?hl=en&user=O0spKioAAAAJ).
 

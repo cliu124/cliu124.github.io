@@ -10,12 +10,19 @@ redirect_from:
 {% include base_path %}
 
 PI
+
 ======
-<img src='/images/professional_Chang_Liu.png'>
+* Dr. Chang Liu
+<img src='/images/professional_Chang_Liu.jpg'>
+  * Assistant Professor in Mechanical Engineering @ University of Connecticut
+  * CV
+  * [Google Scholar](https://scholar.google.com/citations?user=bZ77b64AAAAJ&hl=en)
+  * [ResearchGate](https://www.researchgate.net/profile/Chang_Liu405)
+
 
 Graduate Students
 ======
-I have two opening of Ph.D. students and interested students are welcome to apply
+I have two opening of Ph.D. students and interested students with a strong background in Fluid Dynamics, Applied Mathematics, and Computational Science are welcome to apply
 
 Postdocs
 ======

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chang Liu's website"
+title                    : "FLUENT Lab @ University of Connecticut"
 title_separator          : "-"
-name                     : &name "Chang Liu"
+name                     : &name "FLUENT Lab @ University of Connecticut"
 description              : &description "personal description"
 url                      : https://cliu124.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chang Liu"
   avatar           : "professional_Chang_Liu.jpg"
-  bio              : "A theoretist working on the intersection among fluid dynamics, nonlinear dynamical system, control theory, state estimation and optimization"
+  bio              : "FLUENT Lab @ University of Connecticut working on the intersection among fluid dynamics, nonlinear dynamical system, control theory, state estimation and optimization with a special focus on turbulence"
   location         : # "Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bZ77b64AAAAJ&hl=en"
-  email            : # "chang_liu@berkeley.edu"
+  email            : # "chang_liu@uconn.edu"
   researchgate     : https://www.researchgate.net/profile/Chang_Liu405 # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
