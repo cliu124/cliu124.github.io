@@ -12,12 +12,21 @@ redirect_from:
 PI
 
 ======
-* Dr. Chang Liu
-<img src='/images/professional_Chang_Liu.jpg'>
+* 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Dr. Chang Liu</b></td>
+    <td><b style="font-size:30px"></b></td>
+ </tr>
+ <tr>
+    <td><img src='/images/professional_Chang_Liu.jpg'></td>
+    <td>
   * Assistant Professor in Mechanical Engineering @ University of Connecticut
   * [CV](https://cliu124.github.io/files/CV.pdf)
   * [Google Scholar](https://scholar.google.com/citations?user=bZ77b64AAAAJ&hl=en)
-  * [ResearchGate](https://www.researchgate.net/profile/Chang_Liu405)
+  * [ResearchGate](https://www.researchgate.net/profile/Chang_Liu405)</td>
+ </tr>
+</table>
 
 
 Graduate Students
