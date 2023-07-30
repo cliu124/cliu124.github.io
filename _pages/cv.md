@@ -36,10 +36,10 @@ Research Mentee before UConn
   * Topic: Traveling localized structures within inclined convection in porous medium
 * Lichuan Xu (Co-advised with Adrian van Kan and Edgar Knobloch)
   * Topic: Noise-induced transition in two-dimensional turbulence
-  * Supported by Physics Innovators Initiative Summer Scholars (Pi<sup>2</sup>) (\$6600) and Berkeley Physics Undergraduate Research Scholars (BPURS) \($750) 
+  * Supported by Physics Innovators Initiative Summer Scholars (Pi<sup>2</sup>) ($\$$6600) and Berkeley Physics Undergraduate Research Scholars (BPURS) ($\$$750) 
 * Troy Tsubota (Co-advised with Benjamin Foster and Edgar Knobloch) 
   * Topic: Real Ginzburg-Landau equations in time-varying domain
-  * Supported by Physics Innovators Initiative Summer Scholars (Pi<sup>2</sup>) (\$6500) and Berkeley Physics Undergraduate Research Scholars (BPURS) (\$750) 
+  * Supported by Physics Innovators Initiative Summer Scholars (Pi<sup>2</sup>) ($\$$6500) and Berkeley Physics Undergraduate Research Scholars (BPURS) ($\$$750) 
 * [Aishwarya Rath](https://scholar.google.com/citations?user=I8_grjYAAAAJ&hl=en) (Co-advised with Dennice F. Gayme)
   * Topic: Structured input-output analysis of transitional boundary layers
 * [Yu Shuai](https://scholar.google.com/citations?user=5gI4G0kAAAAJ&hl=en) (Co-advised with Dennice F. Gayme)
