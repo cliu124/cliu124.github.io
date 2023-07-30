@@ -10,10 +10,9 @@ redirect_from:
 {% include base_path %}
 
 PI
-======
+======   
+<img src='/images/professional_Chang_Liu.jpg' width="200"/>   
 * Dr. Chang Liu
-
-<img src='/images/professional_Chang_Liu.jpg' width="200"/>
   * Assistant Professor of Mechanical Engineering @ University of Connecticut
   * [CV](https://cliu124.github.io/files/CV.pdf)
   * [Google Scholar](https://scholar.google.com/citations?user=bZ77b64AAAAJ&hl=en)
