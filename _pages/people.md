@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
