@@ -18,15 +18,17 @@ PI
   * [Google Scholar](https://scholar.google.com/citations?user=bZ77b64AAAAJ&hl=en)
   * [ResearchGate](https://www.researchgate.net/profile/Chang_Liu405)
 
-Graduate Students
+Graduate students
 ======
-I have two opening of Ph.D. students and interested students with a strong background in Fluid Dynamics, Applied Mathematics, and Computational Science are welcome to apply
+We have two opening of Ph.D. students and highly-motivated students with a strong background in Fluid Dynamics, Applied Mathematics, and Computational Science are welcome to contact me.
 
 Postdocs
 ======
+We only consider postdocs with external sources of fundings or fellowship right now. We may have funding for postdoc position in the future.  
 
 Undergraduates
 ======
+Highly-motivatd undergraduate students are encouraged to get in touch. We also encourage and support undergraduates to apply research fellowship. No prior research experiences are expected. 
 
 Research Mentee before UConn
 ======
@@ -42,7 +44,7 @@ Research Mentee before UConn
   * Topic: Structured input-output analysis of transitional boundary layers
 * [Yu Shuai](https://scholar.google.com/citations?user=5gI4G0kAAAAJ&hl=en) (Co-advised with Dennice F. Gayme)
   * Topic: Structured input-output analysis of plane Couette-Poiseuille flow
-  * Current: Ph.D. student in Priceton University
+  * Next position: Ph.D. student in Priceton University
 
 Collaborators
 ======
