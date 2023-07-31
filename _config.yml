@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "FLUENT Lab @ UConn"
-  avatar           : "FLUENT.jpg"
+  avatar           : "FLUENT.png"
   bio              : "FLUENT Lab @ University of Connecticut working on the intersection among fluid dynamics, nonlinear dynamical system, control theory, state estimation and optimization with a special focus on turbulence"
   location         : # "Location"
   employer         :
