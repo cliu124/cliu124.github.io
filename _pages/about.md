@@ -17,7 +17,7 @@ An overview of our group's research can be seen in figure below. The main focus 
 
 News
 ======     
-* Dr. Chang Liu is joining University of Connecticut as an assistant professor of mechanical engineering!
+* [08/2023] Dr. Chang Liu is joining University of Connecticut as an assistant professor of mechanical engineering!
 
 Contact email: chang_liu@uconn.edu
 
