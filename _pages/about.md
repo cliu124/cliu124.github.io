@@ -12,6 +12,9 @@ We have two Ph.D. positions opening! Please contact chang_liu@uconn.edu if you a
 
 FLuids, Uncertainty, Estimation, Nonlinearity and Turbulence (FLUENT) Lab is led by Prof. Chang Liu at Department of Mechanical Engineering, University of Connecticut. We work on the intersection among fluid dynamics, nonlinear dynamical system, control theory, state estimation and optimization with a special focus on turbulence. 
 
+An overview of our group's research can be seen in figure below. The main focus is developing reduced-order modeling for a wide range of fluid flows. One main idea is including more nonlinear effect into linear analysis, and another main idea is to derive reduced equations from full equations.  
+<img src='/images/research_summary.png' > 
+
 News
 ======     
 * Dr. Chang Liu is joining University of Connecticut as an assistant professor of mechanical engineering!
