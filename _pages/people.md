@@ -20,7 +20,7 @@ PI
 
 Graduate students
 ======
-We have two opening of Ph.D. students and highly-motivated students with a strong background in Fluid Dynamics, Applied Mathematics, and Computational Science are welcome to contact me.
+We have two opening of Ph.D. students and highly-motivated students with a strong background in Fluid Dynamics, Applied Mathematics, and Computational Science are welcome to contact chang_liu@uconn.edu.
 
 Postdocs
 ======
