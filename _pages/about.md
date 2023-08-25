@@ -17,7 +17,7 @@ An overview of our group's research can be seen in figure below. The main focus 
 
 News
 ======     
-* [08/2023] Journal Article "Structured input–output analysis of oblique laminar–turbulent patterns in plane Couette–Poiseuille flow" was published in International Journal of Heat and Fluid Flow
+* [08/2023] One journal Article ["Structured input–output analysis of oblique laminar–turbulent patterns in plane Couette–Poiseuille flow"](https://doi.org/10.1016/j.ijheatfluidflow.2023.109207) was published in International Journal of Heat and Fluid Flow!
 * [08/2023] Dr. Chang Liu joined University of Connecticut as an assistant professor of mechanical engineering!
 
 Contact email: chang_liu@uconn.edu
