@@ -17,6 +17,7 @@ PI
   * [CV](https://cliu124.github.io/files/CV.pdf)
   * [Google Scholar](https://scholar.google.com/citations?user=bZ77b64AAAAJ&hl=en)
   * [ResearchGate](https://www.researchgate.net/profile/Chang_Liu405)
+  * [Department Website](https://me.engr.uconn.edu/blog/faculty/liu-chang/)
 
 Graduate students
 ======
