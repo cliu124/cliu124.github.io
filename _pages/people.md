@@ -26,11 +26,11 @@ We have two opening of Ph.D. students and highly-motivated students with a stron
 
 Postdocs
 ======
-We only consider postdocs with external sources of fundings or fellowship right now. We may have funding for postdoc position in the future.  
+Currently, we only consider postdocs with external sources of fundings or fellowship right now. If you are interested in applying fellowship together, please contact me to discuss potential project. 
 
 Undergraduates
 ======
-Highly-motivatd undergraduate students are encouraged to get in touch. We also encourage and support undergraduates to apply research fellowship. No prior research experiences are expected. 
+Highly-motivatd undergraduate students are encouraged to get in touch. We also encourage and support undergraduates to apply research fellowship. No prior research experiences are expected. Some potential topics can be found [here](https://cliu124.github.io/files/UG_research.pdf). 
 
 Research Mentee before UConn
 ======
