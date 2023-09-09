@@ -46,7 +46,7 @@ Research Mentee before UConn
   * Topic: Structured input-output analysis of transitional boundary layers
 * [Yu Shuai](https://scholar.google.com/citations?user=5gI4G0kAAAAJ&hl=en) (Co-advised with Dennice F. Gayme)
   * Topic: Structured input-output analysis of plane Couette-Poiseuille flow
-  * Next position: Ph.D. student in Priceton University
+  * Next position: Ph.D. student in Princeton University
 
 Collaborators
 ======
